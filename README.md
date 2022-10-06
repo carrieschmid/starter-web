@@ -12,5 +12,12 @@ deployment
 more 
 and more 
 and more
+<<<<<<< HEAD
 how to, pleae fork
 and more
+=======
+
+and mor
+
+###cpyright
+>>>>>>> simple-changes
